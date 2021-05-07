@@ -1,4 +1,5 @@
 # Diabetes-predictor
+https://predictor-of-diabetes.herokuapp.com/
 
 * End-To-End full project, deployed on Heroku platform
 * analyzing Pima Indians Diabetes Database
