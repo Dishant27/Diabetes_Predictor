@@ -121,6 +121,7 @@ After running, the application will be available at `http://localhost:5000`.
 - Develop a mobile application version
 - Integrate with additional health metrics
 - Add user authentication for healthcare providers
+- Implement longitudinal tracking for patient monitoring over time
 
 ## 📚 Resources
 
