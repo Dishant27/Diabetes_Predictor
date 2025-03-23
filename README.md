@@ -39,7 +39,7 @@ Each record is classified as having diabetes (1) or not having diabetes (0).
 - Handling missing values
 - Detecting and managing outliers
 - Feature scaling and normalization
-- Exploratory data analysis (EDA)
+- In-depth exploratory data analysis (EDA)
 
 ### Model Development
 The project implements multiple algorithms for comparison:
