@@ -1,4 +1,4 @@
-# 🩺 Diabetes Predictor
+# 🩺 Diabetes Predictor - Enhanced with Advanced Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.7-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Web%20App-red.svg?style=for-the-badge&logo=flask&logoColor=white)
