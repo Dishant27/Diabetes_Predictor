@@ -137,3 +137,6 @@ Dishant - [GitHub Profile](https://github.com/Dishant27)
 ---
 
 **Note**: This project is for educational purposes and should not replace professional medical advice. Always consult healthcare providers for diabetes diagnosis and treatment.
+
+## 🔄 Latest Update
+Enhanced Documentation
